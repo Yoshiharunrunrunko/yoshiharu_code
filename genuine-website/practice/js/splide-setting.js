@@ -5,6 +5,7 @@
 .first-view内のsplide設定
 
 ====================================================================================================*/
+// 初期設定
 const firstViewSplide = new Splide(".first-view .splide", {
 	autoplay: true, // 自動再生
 	type: "fade", // フェード
